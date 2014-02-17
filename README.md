@@ -3,6 +3,12 @@ mod-server
 
 Development server.
 
+## Features
+
+* Live browser reloads, instantly see changes in your browser
+* Remote logging for mobile development
+* Web debugging proxy
+* Deploy sever
 
 ## Usage
 
